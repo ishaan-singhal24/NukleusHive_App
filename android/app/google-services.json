@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889560908711",
+    "project_id": "nukleushive-edc70",
+    "storage_bucket": "nukleushive-edc70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889560908711:android:08bbf9747ec31258426c82",
+        "android_client_info": {
+          "package_name": "com.nukleushive.tools.prod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889560908711-57dhuannej4ii0jovadjjoa3dibqmel4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_9yTxDnQ7yjq4_FUZLKrnplc0fqe4yAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889560908711-57dhuannej4ii0jovadjjoa3dibqmel4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
